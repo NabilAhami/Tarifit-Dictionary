@@ -1,6 +1,6 @@
 [{
     "source": "amazigh_nl",
     "notation": "latin",
-    "path": "https://raw.githubusercontent.com/NabilAhami/Tarifit-Dictionary/master/Sources/amazigh.nl/",
+    "path": "https://raw.githubusercontent.com/NabilAhami/Tarifit-Dictionary/master/Teksten/amazigh.nl/",
     "files": ["BELMONDO.txt", "Buzeggu.txt", "Tamkerra.txt", "Tamkerra2.txt", "Tirekkisent.txt", "Tudart.txt", "Wikileaks.txt", "acemrar.txt", "ait-said.txt", "amezruy.txt", "amyag.txt", "arettar.txt", "asssewggas.txt", "asssewggas2.txt", "awaren.txt", "jar.txt", "logika.txt", "maghar.txt", "min-nzemmar2.txt", "min-zemmar.txt", "mmis-n-refqi.txt", "re3rasi.txt", "readme.md", "rhaj-aliman.txt", "ta-sijj.txt", "tutlayt.txt", "udem.txt", "wi-iggan.txt", "wi-yexsen.txt", "wi-yexsen2.txt", "wi-yexsen3.txt"]
 }]
